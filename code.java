@@ -1,5 +1,5 @@
-public static void main(string ags[]){
-    class printName{
-        system.out.println("my name is balaji");
+    public class printName {
+        public static void main(String[] ags) {
+        System.out.println("my name is balaji");
     }
 }
